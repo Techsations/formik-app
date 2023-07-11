@@ -31,5 +31,16 @@
     "id": 2
   },
   "create-post": [],
-  "view-post": []
+  "view-post": [
+    {
+      "content": "teree",
+      "username": "sddddd",
+      "id": 1
+    },
+    {
+      "content": "teree",
+      "username": "sddddd",
+      "id": 2
+    }
+  ]
 }
