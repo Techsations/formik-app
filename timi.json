@@ -1,0 +1,35 @@
+{
+  "create": [
+    {
+      "username": "Akande",
+      "email": "akandedamilare.t@gmail.com",
+      "password": "bbbbbbbb",
+      "id": 1
+    },
+    {
+      "username": "sddddd",
+      "email": "akandedamilare.t@gmail.com",
+      "password": "aaaaaaaa",
+      "id": 2
+    },
+    {
+      "email": "akandedamilare.t@gmail.com",
+      "password": "aaaaaaaa",
+      "username": "sddddd",
+      "id": 3
+    },
+    {
+      "email": "akandedamilare.t@gmail.com",
+      "password": "aaaaaaaa",
+      "id": 4
+    }
+  ],
+  "signin": {
+    "username": "sddddd",
+    "email": "akandedamilare.t@gmail.com",
+    "password": "aaaaaaaa",
+    "id": 2
+  },
+  "create-post": [],
+  "view-post": []
+}
